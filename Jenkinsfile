@@ -1,7 +1,7 @@
 pipeline {
     
     agent {
-        label "AWS_EC2"
+        label "jenkins_agent"
     }
     
     
